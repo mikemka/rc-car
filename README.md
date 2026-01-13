@@ -75,6 +75,9 @@ The full mechanical design is available as a Fusion 360 project.
 ### PCB Routing — View 2
 ![PCB routing 2](assets/pcb2.png)
 
+### PCB Schematic
+![PCB routing 2](assets/schematic.png)
+
 ---
 
 ## 📦 Downloads
